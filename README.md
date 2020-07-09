@@ -1,2 +1,2 @@
 # notebook
-private notebool
+private noteboolk
